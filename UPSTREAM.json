@@ -1,0 +1,16 @@
+{
+  "omarchyVersion": "4.0.0.alpha",
+  "upstream": "https://github.com/omacom/omarchy",
+  "filesSha256": {
+    "shell/plugins/agents/Agent.qml": "9fa9a8650ecbc2f2f691b01da7419fa0620b6066c423eea8d50f6253ddf6f4e3",
+    "shell/plugins/agents/Main.qml": "fc61e5e06325dd6eb3d100b1f3eead4c6ed8b62b58bda209c70a82084e23f3c7",
+    "shell/plugins/agents/Panel.qml": "0e5ecdb45eaff618963851c16a1f5066307c13195526890d2cbb6ddb5a1aa7c1",
+    "shell/plugins/agents/README.md": "34160fb26e62609839b6b0019a5d79fdd31b4f8f48c148eaf7fec3372c2a910e",
+    "shell/plugins/agents/assets/claude.svg": "0df6dad23995f5a76c6db8cc2a4e646ff45bd7a0626ef98662a7025646e5eea1",
+    "shell/plugins/agents/assets/codex-light.svg": "dc510dda4e7e43c214e6a5a023b9909bc645b45f2fdde537ee6d6b09f1bbc111",
+    "shell/plugins/agents/assets/codex.svg": "f1aeeba6d631feca31129bbc06ac7f813078d6bafa3837061e0ead173f36b857",
+    "shell/plugins/agents/assets/fireworks.svg": "842f35cc7d5f20f8a6f08fddc78f206812a3b9f2c104e09916a5f536058941ed",
+    "shell/plugins/agents/manifest.json": "11bbc83df813fc5862a2ca34399486f19772ebdffe56ee1fe5dde9265a40703f",
+    "bin/omarchy-agent-usage-claude": "88938e35170a5ef8da30b665114740440eb3bd68dba9579a818e8b02c4a0ffc3"
+  }
+}
