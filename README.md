@@ -3,7 +3,7 @@
 An experimental community fork of Omarchy's Agents plugin. Adds Claude
 extra-usage spending percentage and English/Japanese panel text.
 
-[日本語](README.ja.md) · [License](LICENSE) · [Attribution](NOTICE.md)
+[日本語](README_ja.md) · [License](LICENSE) · [Attribution](NOTICE.md)
 
 ## Compatibility
 
